@@ -87,6 +87,7 @@ class SubjectsTab : Fragment() {
                 "eletronica-digital-iv.json",
                 "eletronica-digital-v.json",
                 "eletronica-geral-i.json",
+                "eletronica-geral-ii.json",
                 "eletronica-geral-iii.json",
                 "eletronica-geral-v.json",
                 // Adicione aqui outros arquivos conforme você tiver:
